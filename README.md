@@ -1,4 +1,4 @@
-## 🐱‍👓 Hi there wave
+## 🐱‍ Hi there wave
 
 
 ## 💻 Most commonly used technologies:
