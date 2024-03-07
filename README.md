@@ -31,6 +31,6 @@ Junior Backend Developer with more than 1,5 years of commertial experience.
 *   Docker/Kubernetes, GitHub/GitLab, Fedora/Ubuntu/MacOS 
 
 
-<div align="center" style="margin: 30px 0">
-    <img width="150px" src="https://komarev.com/ghpvc/?username=budaevdigital&color=DE002D">
+<div align="center" style="margin: 20px 0">
+    <img width="120px" src="https://komarev.com/ghpvc/?username=budaevdigital&color=DE002D">
 </div>
