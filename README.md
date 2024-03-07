@@ -1,8 +1,5 @@
 # Hi, I'm Dmitry 👋
 
-### <a href="https://t.me/dmitrybudaev" rel="nofollow">Contact me</a> 🔸 <a href="https://budaev.digital" rel="nofollow">Budaev.Digital</a>
-
-
 Junior Backend Developer with more than 1,5 years of commertial experience.
 
 <p align='center'>
@@ -23,11 +20,10 @@ Junior Backend Developer with more than 1,5 years of commertial experience.
 
 
 ## 🛠 Technical Stack
-*   Python languages
+*   Python 3.8-3.11
 *   MySQL, PostgreSQL, MongoDB, Clickhouse, Redis, Kafka
 *   SQLAlchemy (Core)
 *   Aiohttp, FastAPI, Flask, Asyncio, Scrapy
-*   Camunda, Camunda Cockpit, Camunda Modeleter
 *   Docker/Kubernetes, GitHub/GitLab, Fedora/Ubuntu/MacOS 
 
 
