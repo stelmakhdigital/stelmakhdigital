@@ -32,7 +32,5 @@ Junior Backend Developer with more than 1,5 years of commertial experience.
 
 
 <div align="center" style="margin: 30px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="150px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
+    <img width="150px" src="https://komarev.com/ghpvc/?username=budaevdigital&color=DE002D">
 </div>
