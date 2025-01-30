@@ -1,6 +1,6 @@
 # Hi, I'm Dmitry 👋
 
-Junior Backend Developer with more than 1,5 years of commertial experience.
+Junior Backend Developer with more than 2 years of commertial experience.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=stelmakhdigital&show_icons=true&count_private=true"><img
@@ -20,10 +20,10 @@ Junior Backend Developer with more than 1,5 years of commertial experience.
 
 
 ## 🛠 Technical Stack
-*   Python 3.8-3.11
-*   MySQL, PostgreSQL, MongoDB, Clickhouse, Redis, Kafka
-*   SQLAlchemy (Core)
-*   Aiohttp, FastAPI, Flask, Asyncio, Scrapy
+*   Python 3.8-3.12
+*   PostgreSQL, MongoDB, Clickhouse, Redis, Kafka
+*   Alembic, SQLAlchemy (Core)
+*   Asyncio, Aiohttp, FastAPI, Flask
 *   Docker/Kubernetes, GitHub/GitLab, Fedora/Ubuntu/MacOS 
 
 
