@@ -3,11 +3,11 @@
 Junior Backend Developer with more than 1,5 years of commertial experience.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=budaevdigital&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=stelmakhdigital&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=budaevdigital&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/budaevdigital/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=budaevdigital&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=stelmakhdigital&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/stelmakhdigital/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelmakhdigital&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -28,5 +28,5 @@ Junior Backend Developer with more than 1,5 years of commertial experience.
 
 
 <div align="center" style="margin: 20px 0">
-    <img width="120px" src="https://komarev.com/ghpvc/?username=budaevdigital&color=DE002D">
+    <img width="120px" src="https://komarev.com/ghpvc/?username=stelmakhdigital&color=DE002D">
 </div>
