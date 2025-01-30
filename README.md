@@ -11,10 +11,11 @@ Middle Backend Developer with more than 2 years of commertial experience (total 
 </p>
 
 <p align='center'>
-   📫 How to reach me: <a href="https://t.me/dmitrybudaev">  
+   <p align='center'><< 📫 To contact me >></p>
+   <a href="https://t.me/dmitrybudaev">  
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-
+</p>
 
 ## 🛠 Technical Stack
 *   Python 3.8-3.12
