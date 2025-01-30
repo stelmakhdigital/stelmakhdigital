@@ -1,6 +1,6 @@
 # Hi, I'm Dmitry 👋
 
-Junior Backend Developer with more than 2 years of commertial experience.
+Middle Backend Developer with more than 2 years of commertial experience (total experience of more than 5 years).
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=stelmakhdigital&show_icons=true&count_private=true"><img
@@ -11,12 +11,9 @@ Junior Backend Developer with more than 2 years of commertial experience.
 </p>
 
 <p align='center'>
-   <a href="https://t.me/dmitrybudaev">  
+   📫 How to reach me: <a href="https://t.me/dmitrybudaev">  
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:budaev.digital@gmail.com'>budaev.digital@gmail.com</a>
-</p>
 
 
 ## 🛠 Technical Stack
