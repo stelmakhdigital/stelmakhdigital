@@ -10,12 +10,13 @@ Middle Backend Developer with more than 2 years of commertial experience (total 
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelmakhdigital&layout=compact"/></a>
 </p>
 
-<p align='center'>
-   << 📫 To contact me >>
+<div align="center" style="margin: 20px 0">
+   <p align='center'><< 📫 To contact me >></p>
    <a align='center' href="https://t.me/dmitrybudaev">  
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-</p>
+</div>
+
 
 ## 🛠 Technical Stack
 *   Python 3.8-3.12
