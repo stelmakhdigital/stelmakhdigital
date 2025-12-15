@@ -1,6 +1,6 @@
 # Hi, I'm Dmitry 👋
 
-Middle Backend Developer with more than 2 years of commertial experience (total experience of more than 5 years).
+Middle Backend Developer with more than 3 years of commertial experience (total experience of more than 5 years).
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=stelmakhdigital&show_icons=true&count_private=true"><img
