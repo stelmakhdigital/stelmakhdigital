@@ -3,6 +3,13 @@
 Senior Backend / System Architect with 5+ years of commercial experience.
 I design and build high‑load backend services, homelab/production‑like infrastructure and embedded systems.
 
+<div align="center" style="margin: 20px 0">
+   <p align='center'><< 📫 To contact me >></p>
+   <a align='center' href="https://t.me/StelmakhDigital">  
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+</div>
+
 
 ## Technical Stack
 
